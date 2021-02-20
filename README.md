@@ -1,1 +1,1 @@
-# public-repositoy
+# public-repository
